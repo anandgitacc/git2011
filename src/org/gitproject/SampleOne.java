@@ -12,6 +12,10 @@ public class SampleOne {
 		System.out.println("8939278836");
 	}
 	
+	
+	private void empOffice() {
+		System.out.println("OMR");
+	}
 	private void empBike() {
 		
 		System.out.println("jawa");
