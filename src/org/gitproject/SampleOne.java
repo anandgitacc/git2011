@@ -12,6 +12,11 @@ public class SampleOne {
 		System.out.println("8939278836");
 	}
 	
+	private void empAdd() {
+		
+		System.out.println("OMR, Greens");
+	}
+	
 		
 public static void main(String[] args) {
 		
